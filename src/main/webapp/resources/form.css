@@ -1,0 +1,48 @@
+* {
+	border: 0px solid black;
+	text-align: center;
+}
+
+#user-box {
+	width: 600px;
+	height: 60px;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+#user-box #appname {
+	width: 100px;
+	display: inline-block;
+	float: left;
+}
+
+#user-box #logout {
+	width: 100px;
+	float: right;
+}
+
+#user-box #username {
+	width: 200px;
+	float: right;
+}
+
+#space-box {
+	width: 10px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+#drinks-box {
+	border: 1px solid black;
+	width: 900px;
+	margin: 0 auto;
+}
+
+input[type=text] {
+	border: 1px solid black;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
